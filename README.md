@@ -34,8 +34,7 @@ To get started with MP4 Box Explorer, follow these steps:
   Replace sample.mp4 with the path to your MP4 file in the main function of src/main.rs.
 
 ## 🛠 Example Output
-       ```bash
-       [ftyp] @ 0x00000000 of size: 28, ends @ 0x0000001c
+      [ftyp] @ 0x00000000 of size: 28, ends @ 0x0000001c
        [wide] @ 0x0000001c of size: 8, ends @ 0x00000024
        [mdat] @ 0x00000024 of size: 1248415844, ends @ 0x4a695088
        [moov] @ 0x4a695088 of size: 28354, ends @ 0x4a69bf4a
@@ -143,7 +142,7 @@ To get started with MP4 Box Explorer, follow these steps:
                                   ...
                                   Chunk Offset: 0x49c8478b
       Total number of atoms parsed: 72
-
+       
 ## 📝 Contributing
 Contributions to MP4 Inspector are welcome! If you have suggestions, bug reports, or improvements, please submit an issue or a pull request.
     1. Fork the repository.
